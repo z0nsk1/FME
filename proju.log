@@ -1,117 +1,272 @@
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|Current FME version: FME 2024.0.0.0 (20240304 - Build 24187 - WIN64)
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|System Time: 20240321124920 UTC
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|FME_HOME is 'C:\Program Files\FME\'
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|FME for May (node locked-crc)
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|Serial Number: 0
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|Temporary License: 73 days left.
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|Machine host name is: LAPTOP-RI7AHVN9
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|OS Locale Name     : fi_FI
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|OS Locale Encoding : windows-1252
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|Process Encoding   : UTF-8
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|FME API version: '4.0 20240212'
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'C:\Lipasto\FME/'
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'proju.fmw'
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2024.0.0.0'
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|Operating System: Microsoft Windows 11 64-bit  (Build 22631)
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|FME Platform: WIN64
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|System Status: 91.27 GB of disk space available in the FME temporary folder (C:\Users\nurmj\AppData\Local\Temp\wbrun_1711021235681_7960\fmetmp_17)
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|System Status: 15.80 GB of physical memory available
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|System Status: 63.22 GB of virtual memory available
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|START - ProcessID: 15924, peak process memory usage: 42240 kB, current process memory usage: 42240 kB
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|FME Configuration: Command line arguments are `C:\Program Files\FME\fme.exe' `C:\Lipasto\FME\wb-xlate-1711025357443_7960' `LOG_STANDARDOUT' `YES' `LOG_TIMINGS' `YES' `LogCountServerName' `59094' `LOG_STANDARDOUT' `No' `WORKBENCH_LOG_SERVER' `59087'
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|FME Configuration: Connection Storage: 'C:\Users\nurmj\AppData\Roaming\Safe Software\FME\'
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|Shared folders for formats are : C:\Program Files\FME\datasources;C:\Users\nurmj\Documents\FME\Formats
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|Shared folders for transformers are : C:\Users\nurmj\AppData\Roaming\Safe Software\FME\Packages\24187-win64\transformers;C:\Program Files\FME\transformers;C:\Users\nurmj\AppData\Roaming\Safe Software\FME\FME Store\Transformers
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|Shared folders for coordinate systems are : C:\Users\nurmj\Documents\FME\CoordinateSystems
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|Shared folders for coordinate system exceptions are : C:\Users\nurmj\Documents\FME\CoordinateSystemExceptions
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|Shared folders for coordinate system grid overrides are : C:\Users\nurmj\Documents\FME\CoordinateSystemGridOverrides
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : C:\Users\nurmj\Documents\FME\CsmapTransformationExceptions
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|Shared folders for transformer categories are : C:\Users\nurmj\Documents\FME\TransformerCategories
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|FME Configuration: Reader Keyword is `MULTI_READER'
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|FME Configuration: Writer Keyword is `PRIMARY_DEST'
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `PRIMARY_DEST_DEF'
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|FME Configuration: Reader type is `MULTI_READER'
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|FME Configuration: Writer type is `MULTI_WRITER'
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|FME Configuration: No destination coordinate system set
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|FME Configuration: Current working folder is `C:\Lipasto\FME'
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|FME Configuration: Temporary folder is `C:\Users\nurmj\AppData\Local\Temp\wbrun_1711021235681_7960\fmetmp_17', set from environment variable `FME_TEMP'
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|FME Configuration: Cache folder is 'C:\Users\nurmj\AppData\Local\Temp'
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|FME Configuration: FME_HOME is `C:\Program Files\FME\'
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|FME Configuration: Start freeing memory when the process exceeds 47.41 GB
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|FME Configuration: Stop freeing memory when the process is below 35.56 GB
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|Creating writer for format: 
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|Creating reader for format: 
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|MULTI_READER(MULTI_READER): Will fail with first member reader failure
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|Using Multi Reader with keyword `MULTI_READER' to read multiple datasets
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|Using MultiWriter with keyword `PRIMARY_DEST' to output data (ID_ATTRIBUTE is `multi_writer_id')
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|Loaded module 'LogCount_func' from file 'C:\Program Files\FME\plugins/LogCount_func.dll'
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (4.0 20240212)
-2024-03-21 14:49:20|   0.0|  0.0|INFORM|Emptying factory pipeline
-2024-03-21 14:49:20|   0.0|  0.0|STATS |Router and Unexpected Input Remover (RoutingFactory): Tested 0 input feature(s), wrote 0 output feature(s): 0 matched merge filters, 0 were routed to output, 0 could not be routed.
-2024-03-21 14:49:20|   0.0|  0.0|STATS |Unwanted Router Input Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2024-03-21 14:49:20|   0.0|  0.0|STATS |Survey Data_XLSXR_2 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2024-03-21 14:49:20|   0.0|  0.0|STATS |Survey Data_XLSXR_1 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2024-03-21 14:49:21|   0.2|  0.2|STATS |Restoring 1727 feature(s) from FME feature store file `C:\Users\nurmj\AppData\Local\Temp\wb-cache-proju-xCdOci\Main_KMLStyler -1 23 fo 0 KMLStyled  0  4d88ed5de3820e94a70c25f0fca87570d9853541.ffs'
-2024-03-21 14:49:21|   0.2|  0.0|STATS |Restoring 1727 feature(s) from FME feature store file `C:\Users\nurmj\AppData\Local\Temp\wb-cache-proju-xCdOci\Main_KMLStyler_3 -1 49 fo 0 KMLStyled  3  23d43ca4fa23379295e5c89c0f41eedf8bee6e73.ffs'
-2024-03-21 14:49:21|   0.3|  0.1|INFORM|FME Configuration: Using FME Reprojection Engine
-2024-03-21 14:49:21|   0.3|  0.0|STATS |Destination Feature Type Routing Correlator (RoutingFactory): Tested 3454 input feature(s), wrote 3454 output feature(s): 0 matched merge filters, 3454 were routed to output, 0 could not be routed.
-2024-03-21 14:49:21|   0.3|  0.0|STATS |Final Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2024-03-21 14:49:21|   0.3|  0.0|INFORM|MULTI_WRITER: multi_writer_id `1': Started outputting features
-2024-03-21 14:49:21|   0.3|  0.0|INFORM|Creating writer for format: OGC / Google KML
-2024-03-21 14:49:21|   0.3|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `OGCKML'
-2024-03-21 14:49:21|   0.3|  0.0|INFORM|Loaded module 'OGCKML' from file 'C:\Program Files\FME\plugins/KML21.dll'
-2024-03-21 14:49:21|   0.3|  0.0|INFORM|FME API version of module 'KML21' matches current internal version (4.0 20240212)
-2024-03-21 14:49:21|   0.3|  0.0|INFORM|FME Configuration: Destination coordinate system set to `LL-WGS84'
-2024-03-21 14:49:21|   0.3|  0.0|INFORM|Coordinate System `LL-WGS84' parameters: CS_NAME=`LL-WGS84' DESC_NM=`WGS84 Lat/Longs' DT_NAME=`WGS84' GROUP=`LL' MAP_SCL=`1' PROJ=`LL' QUAD=`1' SCL_RED=`1' UNIT=`DEGREE'
-2024-03-21 14:49:21|   0.3|  0.0|INFORM|Writer `OGCKML_1' of type `OGCKML' using group definition keyword `OGCKML_1_DEF'
-2024-03-21 14:49:21|   0.3|  0.0|INFORM|KML: Initializing KML21 preferences...
-2024-03-21 14:49:21|   0.3|  0.0|INFORM|KML: Initializing dataset `C:\Lipasto\FME\bortle.gdb\nelm.kml'...
-2024-03-21 14:49:21|   0.3|  0.0|INFORM|KML: Created `500' KML nodes.
-2024-03-21 14:49:21|   0.3|  0.0|INFORM|KML: Created `1000' KML nodes.
-2024-03-21 14:49:21|   0.3|  0.0|INFORM|MULTI_WRITER: multi_writer_id `1': Writing feature 1000 
-2024-03-21 14:49:21|   0.3|  0.0|INFORM|KML: Created `1500' KML nodes.
-2024-03-21 14:49:21|   0.3|  0.0|INFORM|KML: Created `2000' KML nodes.
-2024-03-21 14:49:21|   0.3|  0.0|INFORM|MULTI_WRITER: multi_writer_id `1': Writing feature 2000 
-2024-03-21 14:49:21|   0.3|  0.0|INFORM|KML: Created `2500' KML nodes.
-2024-03-21 14:49:21|   0.3|  0.0|INFORM|KML: Created `3000' KML nodes.
-2024-03-21 14:49:21|   0.3|  0.0|INFORM|MULTI_WRITER: multi_writer_id `1': Writing feature 3000 
-2024-03-21 14:49:21|   0.3|  0.0|INFORM|KML: Writing dataset to filesystem...
-2024-03-21 14:49:21|   0.7|  0.4|INFORM|KML: Finished writing dataset to filesystem
-2024-03-21 14:49:21|   0.7|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2024-03-21 14:49:21|   0.7|  0.0|INFORM|Feature output statistics for `OGCKML' writer using keyword `OGCKML_1':
-2024-03-21 14:49:21|   0.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2024-03-21 14:49:21|   0.7|  0.0|STATS |                               Features Written
-2024-03-21 14:49:21|   0.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2024-03-21 14:49:21|   0.7|  0.0|STATS |Survey Data                                                               1727
-2024-03-21 14:49:21|   0.7|  0.0|STATS |Survey Data00                                                             1727
-2024-03-21 14:49:21|   0.7|  0.0|STATS |==============================================================================
-2024-03-21 14:49:21|   0.7|  0.0|STATS |Total Features Written                                                    3454
-2024-03-21 14:49:21|   0.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2024-03-21 14:49:21|   0.7|  0.0|INFORM|MULTI_WRITER: multi_writer_id `1': done writing 3454 feature(s) 
-2024-03-21 14:49:21|   0.7|  0.0|INFORM|^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-2024-03-21 14:49:21|   0.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2024-03-21 14:49:21|   0.7|  0.0|STATS |                            Features Read Summary
-2024-03-21 14:49:21|   0.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2024-03-21 14:49:21|   0.7|  0.0|STATS |==============================================================================
-2024-03-21 14:49:21|   0.7|  0.0|STATS |Total Features Read                                                          0
-2024-03-21 14:49:21|   0.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2024-03-21 14:49:21|   0.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2024-03-21 14:49:21|   0.7|  0.0|STATS |                           Features Written Summary
-2024-03-21 14:49:21|   0.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2024-03-21 14:49:21|   0.7|  0.0|STATS |Survey Data                                                               1727
-2024-03-21 14:49:21|   0.7|  0.0|STATS |Survey Data00                                                             1727
-2024-03-21 14:49:21|   0.7|  0.0|STATS |==============================================================================
-2024-03-21 14:49:21|   0.7|  0.0|STATS |Total Features Written                                                    3454
-2024-03-21 14:49:21|   0.7|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2024-03-21 14:49:21|   0.7|  0.0|WARN  |-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
-2024-03-21 14:49:21|   0.7|  0.0|WARN  |-~                                                                             ~-
-2024-03-21 14:49:21|   0.7|  0.0|WARN  |-~    Feature caches have been recorded at every stage of the translation.     ~-
-2024-03-21 14:49:21|   0.7|  0.0|WARN  |-~                      To inspect the recorded features,                      ~-
-2024-03-21 14:49:21|   0.7|  0.0|WARN  |-~              click the feature cache icons next to the ports.               ~-
-2024-03-21 14:49:21|   0.7|  0.0|WARN  |-~                                                                             ~-
-2024-03-21 14:49:21|   0.7|  0.0|WARN  |-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
-2024-03-21 14:49:21|   0.7|  0.0|INFORM|Translation was SUCCESSFUL with 7 warning(s) (3454 feature(s) output)
-2024-03-21 14:49:21|   0.7|  0.0|INFORM|FME Session Duration: 1.5 seconds. (CPU: 0.6s user, 0.1s system)
-2024-03-21 14:49:21|   0.7|  0.0|INFORM|END - ProcessID: 15924, peak process memory usage: 59672 kB, current process memory usage: 56068 kB
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|Current FME version: FME 2024.0.0.0 (20240304 - Build 24187 - WIN64)
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|System Time: 20240322115654 UTC
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|FME_HOME is 'C:\Program Files\FME\'
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|FME for May (node locked-crc)
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|Serial Number: 0
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|Temporary License: 72 days left.
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|Machine host name is: LAPTOP-RI7AHVN9
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|OS Locale Name     : fi_FI
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|OS Locale Encoding : windows-1252
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|Process Encoding   : UTF-8
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|FME API version: '4.0 20240212'
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'C:\Lipasto\FME/'
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'proju.fmw'
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2024.0.0.0'
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|Operating System: Microsoft Windows 11 64-bit  (Build 22631)
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|FME Platform: WIN64
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|System Status: 91.12 GB of disk space available in the FME temporary folder (C:\Users\nurmj\AppData\Local\Temp\wbrun_1711108594562_17900\fmetmp_0)
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|System Status: 15.80 GB of physical memory available
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|System Status: 63.22 GB of virtual memory available
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|START - ProcessID: 4324, peak process memory usage: 133776 kB, current process memory usage: 83332 kB
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|FME Configuration: Command line arguments are `C:\Program Files\FME\fme.exe' `C:\Lipasto\FME\wb-xlate-1711108607325_17900' `LOG_STANDARDOUT' `YES' `LOG_TIMINGS' `YES' `LogCountServerName' `52850' `LOG_STANDARDOUT' `No' `WORKBENCH_LOG_SERVER' `52840'
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|FME Configuration: Connection Storage: 'C:\Users\nurmj\AppData\Roaming\Safe Software\FME\'
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|Shared folders for formats are : C:\Program Files\FME\datasources;C:\Users\nurmj\Documents\FME\Formats
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|Shared folders for transformers are : C:\Users\nurmj\AppData\Roaming\Safe Software\FME\Packages\24187-win64\transformers;C:\Program Files\FME\transformers;C:\Users\nurmj\AppData\Roaming\Safe Software\FME\FME Store\Transformers
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|Shared folders for coordinate systems are : C:\Users\nurmj\Documents\FME\CoordinateSystems
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|Shared folders for coordinate system exceptions are : C:\Users\nurmj\Documents\FME\CoordinateSystemExceptions
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|Shared folders for coordinate system grid overrides are : C:\Users\nurmj\Documents\FME\CoordinateSystemGridOverrides
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : C:\Users\nurmj\Documents\FME\CsmapTransformationExceptions
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|Shared folders for transformer categories are : C:\Users\nurmj\Documents\FME\TransformerCategories
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|FME Configuration: Reader Keyword is `MULTI_READER'
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|FME Configuration: Writer Keyword is `PRIMARY_DEST'
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `PRIMARY_DEST_DEF'
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|FME Configuration: Reader type is `MULTI_READER'
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|FME Configuration: Writer type is `MULTI_WRITER'
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|FME Configuration: Current working folder is `C:\Lipasto\FME'
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|FME Configuration: Temporary folder is `C:\Users\nurmj\AppData\Local\Temp\wbrun_1711108594562_17900\fmetmp_0', set from environment variable `FME_TEMP'
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|FME Configuration: Cache folder is 'C:\Users\nurmj\AppData\Local\Temp'
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|FME Configuration: FME_HOME is `C:\Program Files\FME\'
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|FME Configuration: Start freeing memory when the process exceeds 47.41 GB
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|FME Configuration: Stop freeing memory when the process is below 35.56 GB
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|Creating writer for format: 
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|Creating reader for format: 
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|MULTI_READER(MULTI_READER): Will fail with first member reader failure
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding XLSXR Reader with keyword XLSXR_1
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding XLSXR Reader with keyword XLSXR_2
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|Using Multi Reader with keyword `MULTI_READER' to read multiple datasets
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|Creating reader for format: Microsoft Excel
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `XLSXR'
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|FME Configuration: Source coordinate system for reader XLSXR_1[XLSXR] set to `LL-WGS84'
+2024-03-22 13:56:54|   0.0|  0.0|INFORM|Coordinate System `LL-WGS84' parameters: CS_NAME=`LL-WGS84' DESC_NM=`WGS84 Lat/Longs' DT_NAME=`WGS84' GROUP=`LL' MAP_SCL=`1' PROJ=`LL' QUAD=`1' SCL_RED=`1' UNIT=`DEGREE'
+2024-03-22 13:56:55|   0.0|  0.0|INFORM|Loaded module 'XLSXR' from file 'C:\Program Files\FME\plugins/xlsx.dll'
+2024-03-22 13:56:55|   0.0|  0.0|INFORM|FME API version of module 'xlsx' matches current internal version (4.0 20240212)
+2024-03-22 13:56:55|   0.0|  0.0|INFORM|Excel Reader: Reader is in set constraints mode
+2024-03-22 13:56:55|   0.0|  0.0|INFORM|XLSXR reader: Creating bulk features from individual features
+2024-03-22 13:56:55|   0.0|  0.0|INFORM|Using MultiWriter with keyword `PRIMARY_DEST' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2024-03-22 13:56:55|   0.0|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
+2024-03-22 13:56:55|   0.0|  0.0|INFORM|Loaded module 'LogCount_func' from file 'C:\Program Files\FME\plugins/LogCount_func.dll'
+2024-03-22 13:56:55|   0.0|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (4.0 20240212)
+2024-03-22 13:56:56|   0.0|  0.0|INFORM|Loaded module 'AttributeKeeperFactory' from file 'C:\Program Files\FME\plugins/AttributeKeeperFactory.dll'
+2024-03-22 13:56:56|   0.0|  0.0|INFORM|FME API version of module 'AttributeKeeperFactory' matches current internal version (4.0 20240212)
+2024-03-22 13:56:56|   0.0|  0.0|INFORM|Loaded module 'VertexCreatorFactory' from file 'C:\Program Files\FME\plugins/VertexCreatorFactory.dll'
+2024-03-22 13:56:56|   0.0|  0.0|INFORM|FME API version of module 'VertexCreatorFactory' matches current internal version (4.0 20240212)
+2024-03-22 13:56:56|   0.0|  0.0|INFORM|Loaded module 'StringReplacerFactory' from file 'C:\Program Files\FME\plugins/StringReplacerFactory.dll'
+2024-03-22 13:56:56|   0.0|  0.0|INFORM|FME API version of module 'StringReplacerFactory' matches current internal version (4.0 20240212)
+2024-03-22 13:56:56|   0.0|  0.0|INFORM|Excel Reader: Output cell formulas: 'false'
+2024-03-22 13:56:56|   0.0|  0.0|INFORM|Excel Reader: Output cell formatting: 'false'
+2024-03-22 13:56:56|   0.0|  0.0|INFORM|Excel Reader: Output cell comments: 'false'
+2024-03-22 13:56:56|   0.0|  0.0|INFORM|Excel Reader: Force full datetime values: 'false'
+2024-03-22 13:56:56|   0.0|  0.0|INFORM|Excel Reader: Opening dataset 'C:\Lipasto\FME\Sky Glow Mapping 5.3.2024\01 5.3. third_3_MB.xlsx'...
+2024-03-22 13:56:56|   0.0|  0.0|WARN  |Excel Reader: Sheet at position '1' of workbook 'C:\Lipasto\FME\Sky Glow Mapping 5.3.2024\01 5.3. third_3_MB.xlsx' could not be read and will not be read. Error message is 'sheet not found'
+2024-03-22 13:56:56|   0.0|  0.0|INFORM|Excel Reader: Blank cells will be read as 'missing'
+2024-03-22 13:56:56|   0.0|  0.0|INFORM|Excel Reader: Apply filters in workbook during read: '0'
+2024-03-22 13:56:56|   0.0|  0.0|INFORM|Excel Reader: Reading images embedded in workbook '01 5.3. third_3_MB.xlsx' for selected sheets as 'None'
+2024-03-22 13:56:56|   0.0|  0.0|INFORM|Excel Reader: Parameter _SCHEMA_HANDLING_REVISION has value 2
+2024-03-22 13:56:56|   0.0|  0.0|INFORM|Excel Reader: Trimming whitespace from attribute names
+2024-03-22 13:56:56|   0.0|  0.0|INFORM|Excel Reader: Reading sheet 'Survey Data'...
+2024-03-22 13:56:56|   0.0|  0.0|INFORM|Excel Reader: Sheet 'Survey Data' range: Start Row '2', Start Column 'A', End Row '1728', End Column 'AJ'
+2024-03-22 13:56:56|   0.0|  0.0|INFORM|Survey Data Feature Recorder -1 2147549186 (RecorderFactory): Splitting bulk features into individual features
+2024-03-22 13:56:56|   0.1|  0.1|INFORM|FME Configuration: Using FME Reprojection Engine
+2024-03-22 13:56:57|   0.8|  0.7|INFORM|Excel Reader: Closing dataset 'C:\Lipasto\FME\Sky Glow Mapping 5.3.2024\01 5.3. third_3_MB.xlsx'...
+2024-03-22 13:56:57|   0.8|  0.0|INFORM|Excel Writer: Workbook contains 1 fonts and 3 cell formats after writing
+2024-03-22 13:56:57|   0.8|  0.0|INFORM|Excel Reader: Closing dataset 'C:\Lipasto\FME\Sky Glow Mapping 5.3.2024\01 5.3. third_3_MB.xlsx'...
+2024-03-22 13:56:57|   0.8|  0.0|INFORM|Creating reader for format: Microsoft Excel
+2024-03-22 13:56:57|   0.8|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `XLSXR'
+2024-03-22 13:56:57|   0.8|  0.0|INFORM|Excel Reader: Reader is in set constraints mode
+2024-03-22 13:56:57|   0.8|  0.0|INFORM|XLSXR reader: Creating bulk features from individual features
+2024-03-22 13:56:57|   0.8|  0.0|INFORM|Excel Reader: Output cell formulas: 'false'
+2024-03-22 13:56:57|   0.8|  0.0|INFORM|Excel Reader: Output cell formatting: 'false'
+2024-03-22 13:56:57|   0.8|  0.0|INFORM|Excel Reader: Output cell comments: 'false'
+2024-03-22 13:56:57|   0.8|  0.0|INFORM|Excel Reader: Force full datetime values: 'false'
+2024-03-22 13:56:57|   0.8|  0.0|INFORM|Excel Reader: Opening dataset 'C:\Lipasto\FME\Sky Glow Mapping 5.3.2024\01 5.3. third_3_NELM.xlsx'...
+2024-03-22 13:56:57|   0.8|  0.0|WARN  |Excel Reader: Sheet at position '1' of workbook 'C:\Lipasto\FME\Sky Glow Mapping 5.3.2024\01 5.3. third_3_NELM.xlsx' could not be read and will not be read. Error message is 'sheet not found'
+2024-03-22 13:56:57|   0.8|  0.0|INFORM|Excel Reader: Blank cells will be read as 'Null'
+2024-03-22 13:56:57|   0.8|  0.0|INFORM|Excel Reader: Apply filters in workbook during read: '0'
+2024-03-22 13:56:57|   0.8|  0.0|INFORM|Excel Reader: Reading images embedded in workbook '01 5.3. third_3_NELM.xlsx' for selected sheets as 'None'
+2024-03-22 13:56:57|   0.8|  0.0|INFORM|Excel Reader: Parameter _SCHEMA_HANDLING_REVISION has value 2
+2024-03-22 13:56:57|   0.8|  0.0|INFORM|Excel Reader: Trimming whitespace from attribute names
+2024-03-22 13:56:57|   0.8|  0.0|INFORM|Excel Reader: Reading sheet 'Survey Data'...
+2024-03-22 13:56:57|   0.8|  0.0|INFORM|Excel Reader: Sheet 'Survey Data' range: Start Row '1', Start Column 'A', End Row '1728', End Column 'AJ'
+2024-03-22 13:56:57|   0.8|  0.0|INFORM|Survey Data Feature Recorder -1 2147549220 (RecorderFactory): Splitting bulk features into individual features
+2024-03-22 13:56:58|   1.1|  0.3|INFORM|Excel Reader: Closing dataset 'C:\Lipasto\FME\Sky Glow Mapping 5.3.2024\01 5.3. third_3_NELM.xlsx'...
+2024-03-22 13:56:58|   1.1|  0.0|INFORM|Excel Writer: Workbook contains 1 fonts and 3 cell formats after writing
+2024-03-22 13:56:58|   1.1|  0.0|INFORM|Excel Reader: Closing dataset 'C:\Lipasto\FME\Sky Glow Mapping 5.3.2024\01 5.3. third_3_NELM.xlsx'...
+2024-03-22 13:56:58|   1.1|  0.0|INFORM|MULTI_READER(MULTI_READER): Done reading 3454 features from 2 readers
+2024-03-22 13:56:58|   1.1|  0.0|INFORM|Emptying factory pipeline
+2024-03-22 13:56:58|   1.1|  0.0|STATS |Router and Unexpected Input Remover (RoutingFactory): Tested 3454 input feature(s), wrote 3454 output feature(s): 3454 matched merge filters, 3454 were routed to output, 0 could not be routed.
+2024-03-22 13:56:58|   1.1|  0.0|STATS |Unwanted Router Input Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |Survey Data_XLSXR_1 Splitter (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |Survey Data_XLSXR_2 Splitter (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |AttributeSplitter_2 (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |AttributeRemover_2 (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorsForSQM_2 (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_3 Input Input Collector (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_3_Input1634808746 Input Splitter (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_3_TestFilter (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_3_TestFilter_Condition_1 (TestFactory): Tested 1727 input feature(s) -- 0 feature(s) passed and 1727 feature(s) failed
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_3_TestFilter_Condition_2 (TestFactory): Tested 1727 input feature(s) -- 0 feature(s) passed and 1727 feature(s) failed
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_3_TestFilter_Condition_3 (TestFactory): Tested 1727 input feature(s) -- 0 feature(s) passed and 1727 feature(s) failed
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_3_TestFilter_Condition_4 (TestFactory): Tested 1727 input feature(s) -- 1727 feature(s) passed and 0 feature(s) failed
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_3_TestFilter_<UNFILTERED> (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_3_TestFilter <UNFILTERED> Transformer Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_3_TestFilter_2 (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_3_TestFilter_2_Condition_1 (TestFactory): Tested 1727 input feature(s) -- 1727 feature(s) passed and 0 feature(s) failed
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_3_TestFilter_2_Condition_2 (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_3_TestFilter_2_Condition_3 (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_3_TestFilter_2_<UNFILTERED> (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_3_AttributeSplitter_4 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_3_AttributeSplitter_3 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_3_AttributeSplitter (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_3_AttributeSplitter_2 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_3_AttributeValueMapper_4 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_3_AttributeSplitter_5 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_3_Tester (TestFactory): Tested 1727 input feature(s) -- 0 feature(s) passed and 1727 feature(s) failed
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_3_Tester_2 (TestFactory): Tested 1727 input feature(s) -- 1727 feature(s) passed and 0 feature(s) failed
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_3_Tester_4 (TestFactory): Tested 1727 input feature(s) -- 0 feature(s) passed and 1727 feature(s) failed
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_3_AttributeValueMapper_2 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_3_Tester_6 (TestFactory): Tested 1727 input feature(s) -- 0 feature(s) passed and 1727 feature(s) failed
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_3_AttributeRemover (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_3_Output1634808746 Output Collector (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_3_<Rejected>1634808746 Output Collector (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_3 Output Output Renamer/Nuker (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_3 <Rejected> Output Renamer/Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |KMLStyler_3 (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |AttributeSplitter (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |AttributeRemover (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |VertexCreator OUTPUT Splitter (TeeFactory): Cloned 1727 input feature(s) into 3454 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorsForSQM (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew Input Input Collector (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_Input1634808746 Input Splitter (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_TestFilter (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_TestFilter_Condition_1 (TestFactory): Tested 1727 input feature(s) -- 0 feature(s) passed and 1727 feature(s) failed
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_TestFilter_Condition_2 (TestFactory): Tested 1727 input feature(s) -- 0 feature(s) passed and 1727 feature(s) failed
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_TestFilter_Condition_3 (TestFactory): Tested 1727 input feature(s) -- 0 feature(s) passed and 1727 feature(s) failed
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_TestFilter_Condition_4 (TestFactory): Tested 1727 input feature(s) -- 1727 feature(s) passed and 0 feature(s) failed
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_TestFilter_<UNFILTERED> (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_TestFilter <UNFILTERED> Transformer Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_TestFilter_2 (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_TestFilter_2_Condition_1 (TestFactory): Tested 1727 input feature(s) -- 1727 feature(s) passed and 0 feature(s) failed
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_TestFilter_2_Condition_2 (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_TestFilter_2_Condition_3 (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_TestFilter_2_<UNFILTERED> (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_AttributeSplitter_4 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_AttributeSplitter_3 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_AttributeSplitter (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_AttributeSplitter_2 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_AttributeValueMapper_4 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_AttributeSplitter_5 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_Tester (TestFactory): Tested 1727 input feature(s) -- 0 feature(s) passed and 1727 feature(s) failed
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_Tester_2 (TestFactory): Tested 1727 input feature(s) -- 1727 feature(s) passed and 0 feature(s) failed
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_Tester_4 (TestFactory): Tested 1727 input feature(s) -- 0 feature(s) passed and 1727 feature(s) failed
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_AttributeValueMapper_2 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_Tester_6 (TestFactory): Tested 1727 input feature(s) -- 0 feature(s) passed and 1727 feature(s) failed
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_AttributeRemover (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_Output1634808746 Output Collector (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_<Rejected>1634808746 Output Collector (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew Output Output Renamer/Nuker (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew <Rejected> Output Renamer/Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |KMLStyler (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorsForBortle (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_2 Input Input Collector (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_2_Input1634808746 Input Splitter (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_2_TestFilter (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_2_TestFilter_Condition_1 (TestFactory): Tested 1727 input feature(s) -- 0 feature(s) passed and 1727 feature(s) failed
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_2_TestFilter_Condition_2 (TestFactory): Tested 1727 input feature(s) -- 0 feature(s) passed and 1727 feature(s) failed
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_2_TestFilter_Condition_3 (TestFactory): Tested 1727 input feature(s) -- 0 feature(s) passed and 1727 feature(s) failed
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_2_TestFilter_Condition_4 (TestFactory): Tested 1727 input feature(s) -- 1727 feature(s) passed and 0 feature(s) failed
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_2_TestFilter_<UNFILTERED> (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_2_TestFilter <UNFILTERED> Transformer Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_2_TestFilter_2 (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_2_TestFilter_2_Condition_1 (TestFactory): Tested 1727 input feature(s) -- 1727 feature(s) passed and 0 feature(s) failed
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_2_TestFilter_2_Condition_2 (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_2_TestFilter_2_Condition_3 (TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_2_TestFilter_2_<UNFILTERED> (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_2_AttributeSplitter_4 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_2_AttributeSplitter_3 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_2_AttributeSplitter (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_2_AttributeSplitter_2 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_2_AttributeValueMapper_4 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_2_AttributeSplitter_5 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_2_Tester (TestFactory): Tested 1727 input feature(s) -- 0 feature(s) passed and 1727 feature(s) failed
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_2_Tester_2 (TestFactory): Tested 1727 input feature(s) -- 1727 feature(s) passed and 0 feature(s) failed
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_2_Tester_4 (TestFactory): Tested 1727 input feature(s) -- 0 feature(s) passed and 1727 feature(s) failed
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_2_AttributeValueMapper_2 (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_2_Tester_6 (TestFactory): Tested 1727 input feature(s) -- 0 feature(s) passed and 1727 feature(s) failed
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_2_AttributeRemover (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_2_Output1634808746 Output Collector (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_2_<Rejected>1634808746 Output Collector (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_2 Output Output Renamer/Nuker (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |ColorConverterNew_2 <Rejected> Output Renamer/Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |KMLStyler_2 (TeeFactory): Cloned 1727 input feature(s) into 1727 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|STATS |Destination Feature Type Routing Correlator (RoutingFactory): Tested 3454 input feature(s), wrote 3454 output feature(s): 0 matched merge filters, 3454 were routed to output, 0 could not be routed.
+2024-03-22 13:56:58|   1.1|  0.0|STATS |Final Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2024-03-22 13:56:58|   1.1|  0.0|INFORM|MULTI_WRITER: multi_writer_id `1': Started outputting features
+2024-03-22 13:56:58|   1.1|  0.0|INFORM|Creating writer for format: OGC / Google KML
+2024-03-22 13:56:58|   1.1|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `OGCKML'
+2024-03-22 13:56:58|   1.1|  0.0|INFORM|Loaded module 'OGCKML' from file 'C:\Program Files\FME\plugins/KML21.dll'
+2024-03-22 13:56:58|   1.1|  0.0|INFORM|FME API version of module 'KML21' matches current internal version (4.0 20240212)
+2024-03-22 13:56:59|   1.1|  0.0|INFORM|FME Configuration: Destination coordinate system set to `LL-WGS84'
+2024-03-22 13:56:59|   1.1|  0.0|INFORM|Coordinate System `LL-WGS84' parameters: CS_NAME=`LL-WGS84' DESC_NM=`WGS84 Lat/Longs' DT_NAME=`WGS84' GROUP=`LL' MAP_SCL=`1' PROJ=`LL' QUAD=`1' SCL_RED=`1' UNIT=`DEGREE'
+2024-03-22 13:56:59|   1.1|  0.0|INFORM|Writer `OGCKML_1' of type `OGCKML' using group definition keyword `OGCKML_1_DEF'
+2024-03-22 13:56:59|   1.1|  0.0|INFORM|KML: Initializing KML21 preferences...
+2024-03-22 13:56:59|   1.1|  0.0|INFORM|KML: Initializing dataset `C:\Lipasto\FME\bortle.gdb\nelm.kml'...
+2024-03-22 13:56:59|   1.1|  0.0|INFORM|KML: Created `500' KML nodes.
+2024-03-22 13:56:59|   1.1|  0.0|INFORM|KML: Created `1000' KML nodes.
+2024-03-22 13:56:59|   1.1|  0.0|INFORM|MULTI_WRITER: multi_writer_id `1': Writing feature 1000 
+2024-03-22 13:56:59|   1.1|  0.0|INFORM|KML: Created `1500' KML nodes.
+2024-03-22 13:56:59|   1.1|  0.0|INFORM|KML: Created `2000' KML nodes.
+2024-03-22 13:56:59|   1.1|  0.0|INFORM|MULTI_WRITER: multi_writer_id `1': Writing feature 2000 
+2024-03-22 13:56:59|   1.1|  0.0|INFORM|KML: Created `2500' KML nodes.
+2024-03-22 13:56:59|   1.1|  0.0|INFORM|KML: Created `3000' KML nodes.
+2024-03-22 13:56:59|   1.1|  0.0|INFORM|MULTI_WRITER: multi_writer_id `1': Writing feature 3000 
+2024-03-22 13:56:59|   1.1|  0.0|INFORM|KML: Writing dataset to filesystem...
+2024-03-22 13:56:59|   1.3|  0.2|INFORM|KML: Finished writing dataset to filesystem
+2024-03-22 13:56:59|   1.3|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-03-22 13:56:59|   1.3|  0.0|INFORM|Feature output statistics for `OGCKML' writer using keyword `OGCKML_1':
+2024-03-22 13:56:59|   1.3|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-03-22 13:56:59|   1.3|  0.0|STATS |                               Features Written
+2024-03-22 13:56:59|   1.3|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-03-22 13:56:59|   1.3|  0.0|STATS |Survey Data                                                               1727
+2024-03-22 13:56:59|   1.3|  0.0|STATS |Survey Data00                                                             1727
+2024-03-22 13:56:59|   1.3|  0.0|STATS |==============================================================================
+2024-03-22 13:56:59|   1.3|  0.0|STATS |Total Features Written                                                    3454
+2024-03-22 13:56:59|   1.3|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-03-22 13:56:59|   1.3|  0.0|INFORM|MULTI_WRITER: multi_writer_id `1': done writing 3454 feature(s) 
+2024-03-22 13:56:59|   1.3|  0.0|INFORM|^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2024-03-22 13:56:59|   1.3|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-03-22 13:56:59|   1.3|  0.0|STATS |                            Features Read Summary
+2024-03-22 13:56:59|   1.3|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-03-22 13:56:59|   1.3|  0.0|STATS |Survey Data                                                               3454
+2024-03-22 13:56:59|   1.3|  0.0|STATS |==============================================================================
+2024-03-22 13:56:59|   1.3|  0.0|STATS |Total Features Read                                                       3454
+2024-03-22 13:56:59|   1.3|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-03-22 13:56:59|   1.3|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-03-22 13:56:59|   1.3|  0.0|STATS |                           Features Written Summary
+2024-03-22 13:56:59|   1.3|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-03-22 13:56:59|   1.3|  0.0|STATS |Survey Data                                                               1727
+2024-03-22 13:56:59|   1.3|  0.0|STATS |Survey Data00                                                             1727
+2024-03-22 13:56:59|   1.3|  0.0|STATS |==============================================================================
+2024-03-22 13:56:59|   1.3|  0.0|STATS |Total Features Written                                                    3454
+2024-03-22 13:56:59|   1.3|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2024-03-22 13:56:59|   1.3|  0.0|WARN  |-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+2024-03-22 13:56:59|   1.3|  0.0|WARN  |-~                                                                             ~-
+2024-03-22 13:56:59|   1.3|  0.0|WARN  |-~    Feature caches have been recorded at every stage of the translation.     ~-
+2024-03-22 13:56:59|   1.3|  0.0|WARN  |-~                      To inspect the recorded features,                      ~-
+2024-03-22 13:56:59|   1.3|  0.0|WARN  |-~              click the feature cache icons next to the ports.               ~-
+2024-03-22 13:56:59|   1.3|  0.0|WARN  |-~                                                                             ~-
+2024-03-22 13:56:59|   1.3|  0.0|WARN  |-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+2024-03-22 13:56:59|   1.3|  0.0|INFORM|Translation was SUCCESSFUL with 9 warning(s) (3454 feature(s) output)
+2024-03-22 13:56:59|   1.3|  0.0|INFORM|FME Session Duration: 5.3 seconds. (CPU: 1.2s user, 0.1s system)
+2024-03-22 13:56:59|   1.3|  0.0|INFORM|END - ProcessID: 4324, peak process memory usage: 161424 kB, current process memory usage: 112208 kB
